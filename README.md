@@ -39,22 +39,16 @@ Software Engineering
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" />
 
-&nbsp;&nbsp;&nbsp;
-
 <!-- Big Data -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="45" alt="Apache Spark" />
-
-&nbsp;&nbsp;&nbsp;
 
 <!-- DevOps -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="Docker" />
 
-&nbsp;&nbsp;&nbsp;
 
 <!-- Database (Citus runs on PostgreSQL) -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL / Citus" />
 
-&nbsp;&nbsp;&nbsp;
 
 <!-- LaTeX -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="45" alt="LaTeX" />
@@ -70,4 +64,4 @@ Here are somme relevent projects i worked on...
 
 💼 LinkedIn: www.linkedin.com/in/irène-soffack-mafoken-2a3907278
 
-📫 Contact: +32 465710583 / irenesoffack@gmail.com
+📫 Contact: irenesoffack@gmail.com
