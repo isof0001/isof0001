@@ -57,7 +57,7 @@ Software Engineering
 
 # Projects
 
-Here are somme relevent projects i worked on...
+Here are some relevent projects i worked on...
 
 
 # Availability
