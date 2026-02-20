@@ -1,97 +1,73 @@
-# Irena 👑
+Irena 👑
 
-MSc Computer Science Engineering — Systems • Cybersecurity • Software 
-UCLouvain (EPL)
+# Focus
 
-I build soltions that are **measured, optimized, and understood**.  
+**Master in Computer Science – Specialized in AI & Data Science
+Université libre de Bruxelles (ULB)**
+
+I build solutions that are measured, optimized, and understood.
 If it’s slow, fragile, or hand-wavy, I don’t trust it.
 
----
+**Domain of Focus so far**
 
-## Domain of Focus
+-Advanced Databases: Temporal, Spatial, Mobility, Active Systems
 
-- **Cybersecurity & Network**
-- **Systems & Low-Level Programming**
-- **Database Design & Query Optimization**
-- **Performance Analysis & Benchmarking**
-- **Software**
+-Big Data Scalability & Distributed Processing with Apache Spark
 
-I care about how things work *under the hood*: memory, caches, indexes, execution paths.
-But most importantly about how to keep tthem working in a reliable and secure way.
+-Machine Learning & Statistical Modeling
 
----
+-Database Design & Query Optimization
 
-## Arsenal
+-Software Engineering & System Architecture
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+-Advanced Database Systems
 
----
+-Data Mining
 
-### Operating Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+Query Optimization & Indexing
 
----
+Algorithms & Complexity
 
-### Tools & Platforms
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+Software Engineering
 
----
+# Languages and Tools
+<p align="left">
 
-### Debugging, Security & Benchmarking
-![gdb](https://img.shields.io/badge/gdb-000000?style=for-the-badge&logo=gnu&logoColor=white)
-![pwntools](https://img.shields.io/badge/pwntools-111111?style=for-the-badge&logo=python&logoColor=white)
-![WRK](https://img.shields.io/badge/WRK-444444?style=for-the-badge)
+<!-- Languages -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="C" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" />
 
+&nbsp;&nbsp;&nbsp;
 
-**Concepts**  
-Core Computer Science Engineering
+<!-- Big Data -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="45" alt="Apache Spark" />
 
----
+&nbsp;&nbsp;&nbsp;
 
-## Selected Works
+<!-- DevOps -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="Docker" />
 
-### 🧪 Performance Evaluation & Benchmarking
-Designed controlled experiments to evaluate server performance under load.
-- Traffic generation with WRK
-- Latency & throughput analysis
-- Repeatable methodology over guesswork
+&nbsp;&nbsp;&nbsp;
 
-🔗 *Pinned repository*
--  https://github.com/Lord-Melflam/linfo2241_project2_24-25
----
+<!-- Database (Citus runs on PostgreSQL) -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL / Citus" />
 
-### 🧨 Systems Security Labs
-Practical exploitation exercises under real constraints:
-- Buffer overflows
-- ASLR-enabled binaries
-- Shellcode injection
+&nbsp;&nbsp;&nbsp;
 
-Tooling: `pwntools`, `pwndbg`, Kali Linux  
-🔗 *Pinned repository*
-- https://github.com/Lord-Melflam/Lord-Melflam-LINFO2144_2025_P2
----
+<!-- LaTeX -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="45" alt="LaTeX" />
 
-## Presence
+</p>
 
-- 💼 LinkedIn: www.linkedin.com/in/francois-junior-meli-ngueunkeung
-- 📫 Contact: available upon request
+# Projects
 
----
-
-> *Elegance in CS is not decoration — it is control.*
-
----
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=isof0001&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+Here are somme relevent projects i worked on...
 
 
+# Availability
 
+💼 LinkedIn: www.linkedin.com/in/irène-soffack-mafoken-2a3907278
+
+📫 Contact: +32 465710583 / irenesoffack@gmail.com
